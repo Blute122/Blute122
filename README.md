@@ -31,4 +31,4 @@ fires.
 
 ### Reach me
 
-[LinkedIn]({{www.linkedin.com/in/vaibhav-agrawal-b207b7277}}) · {{agrawalvaibhav2004@gmail.com}}
+[LinkedIn]({{https://www.linkedin.com/in/vaibhav-agrawal-b207b7277/}}) · {{agrawalvaibhav2004@gmail.com}}
